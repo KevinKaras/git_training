@@ -1,7 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 <some changes>
-<<<<<<< HEAD
 123
-=======
 <some more changes>
->>>>>>> change_alice
+
+Added text to alice
